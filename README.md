@@ -1,6 +1,5 @@
-# AI-Driven-Drone-Monitoring-system-
+# AI-Driven-Drone-Monitoring-system
 AI-powered drone monitoring system for battery prediction , health analysis , risk classification , alerts and real-time dashboards using python 
-# AI-Driven Drone Monitoring System 
 
 ## Overview
 This project is a Python-based AI-Driven Drone Monitoring System developed to simulate and monitor drone operations. The system analyzes drone performance, predicts battery life, generates alerts, calculates health scores, classifies risks, and visualizes data through interactive dashboards.
